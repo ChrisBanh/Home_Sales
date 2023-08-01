@@ -3,7 +3,7 @@
 ### Note: Notebook was completed through Google Colab instead of running the Jupyter Notebook within a local server.
 
 
-# #Before You Begin
+## Before You Begin
 Create a new repository for this project called, Home_Sales. Do not add this homework to an existing repository.
 
 Clone the new repository to your computer.
